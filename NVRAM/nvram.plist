@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add</key>
+	<dict>
+		<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+		<dict>
+			<key>SystemAudioVolume</key>
+			<data>
+			Rg==
+			</data>
+			<key>prev-lang:kbd</key>
+			<data>
+			emhfQ046MjUy
+			</data>
+		</dict>
+		<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
+		<dict>
+			<key>Boot0080</key>
+			<data>
+			AQAAAAgBbQBhAGMATwBTAAAAAgEMANBBAwoAAAAAAQEGAAIfAxIK
+			AAEA//8AAAQBKgACAAAAAKgPAAAAAACInOIbAAAAAL1P4gCOhiVP
+			sKeFSJHbAcgCAgQDJAD3/HS+fAvzSZFHAfQELmhCgyHhqFiT+EGl
+			pEGf62IEEQQEmgBcADYAQwBFAEMAMgAwAEEANgAtAEQAMgBCADAA
+			LQA0ADYAMgAxAC0AQgA2ADQAOQAtADUANgA3AEUAMgA5AEEANQAz
+			ADAAMgA5AFwAUwB5AHMAdABlAG0AXABMAGkAYgByAGEAcgB5AFwA
+			QwBvAHIAZQBTAGUAcgB2AGkAYwBlAHMAXABiAG8AbwB0AC4AZQBm
+			AGkAAAB//wQA
+			</data>
+			<key>BootOrder</key>
+			<data>
+			gACAAA==
+			</data>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
