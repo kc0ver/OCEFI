@@ -4,33 +4,29 @@
 ## 测试配置
 ### 系统
 x58 杂牌主板，咸鱼
-![主板](https://pic.imgdb.cn/item/66bee56ed9c307b7e94a3d90.jpg)
-
+![主板](https://github.com/user-attachments/assets/123c97ff-25d0-4f43-bdb1-c813115b766c)
 
 志强 x5650，6c12t，2.66，95W
-![x5650](https://pic.imgdb.cn/item/66bee5c4d9c307b7e94a80b2.jpg)
-
+![x5650](https://github.com/user-attachments/assets/1626947e-680b-4744-b58e-5d937add1271)
 
 16G 双通道混搭 ECC 内存
-![内存](https://pic.imgdb.cn/item/66bee64fd9c307b7e94ae3fe.png)
-
+![内存](https://github.com/user-attachments/assets/980b84f0-4ec2-4bc5-9fbb-4f0db9dcaeee)
 
 256G SATA 固态，512G 机械
-![硬盘](https://pic.imgdb.cn/item/66bee6a5d9c307b7e94b2b9a.png)
+![硬盘](https://github.com/user-attachments/assets/14331c06-b019-4a69-b4e5-46173f037f4a)
 
 ### 显卡
 HD7750，接 DVI
-![显卡](https://pic.imgdb.cn/item/66bee56ed9c307b7e94a3dcd.jpg)
-![接口](https://pic.imgdb.cn/item/66bee56ed9c307b7e94a3de0.jpg)
+![显卡](https://github.com/user-attachments/assets/2dd88331-ff91-4444-b592-99aff8d8c033)
+![接口](https://github.com/user-attachments/assets/66196a18-adfb-4516-b27b-f6127638cf5f)
 
 ### 网卡&蓝牙
 BCM943602cs，三天线，蓝牙占前置 USB 借口返还一个 USB2.0
-![网卡](https://pic.imgdb.cn/item/66bee56fd9c307b7e94a3e12.jpg)
+![网卡](https://github.com/user-attachments/assets/3de2a036-02dc-4998-a873-064959ad0e06)
 
 ### 声卡
 板载 ALC662，alcid=5
-![声卡](https://pic.imgdb.cn/item/66bee769d9c307b7e94bce25.png)
-
+![声卡](https://github.com/user-attachments/assets/a7956a38-0e0a-4f73-933f-b6eab5414860)
 
 ## 完成度
 - [x] 显卡 Metal 加速驱动
